@@ -1,7 +1,7 @@
 
 
 [![Release](https://jitpack.io/v/Redman1037/bottomsheet-imagepicker.svg)](https://jitpack.io/#Redman1037/bottomsheet-imagepicker)
-[![Build Status](https://travis-ci.org/kroegerama/bottomsheet-imagepicker.svg?branch=master)](https://travis-ci.org/kroegerama/bottomsheet-imagepicker)
+[![Build Status](https://travis-ci.org/Redman1037/bottomsheet-imagepicker.svg?branch=master)](https://travis-ci.org/Redman1037/bottomsheet-imagepicker)
 
 # BottomSheet Image Picker for Android
 
