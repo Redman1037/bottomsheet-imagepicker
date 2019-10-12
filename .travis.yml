@@ -4,7 +4,7 @@ env:
   global:
     - ANDROID_TARGET=29
     - ANDROID_ABI=armeabi-v7a
-    - BUILD_TOOLS_VERSION=29.0.2
+    - BUILD_TOOLS_VERSION=29.0.1
 android:
   components:
   - tools
